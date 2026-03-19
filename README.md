@@ -7,10 +7,6 @@
 
 ---
 
-## 🛡️ License
-This project is licensed under the MIT License. You are free to use, modify, and share it with proper attribution.
---- 
-
 ## 🌟 About Me
 Hi! I'm Harshini, a Data Analyst with passion for data analytics.
 I enjoy working on data-driven projects that transform raw data into meaningful insights and support business decision-making.
